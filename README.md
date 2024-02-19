@@ -1,1 +1,1 @@
-# sgbd
+# Sisteme de Gestiune a Bazelor de Date
